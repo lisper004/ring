@@ -2,7 +2,7 @@
 I present to you a Linux distribution (based on Archiso) that uses a REPL instead of a regular shell (bash or zsh).
 
 # Install
-Installation instructions are described in [INSTALL.MD]()
+Installation instructions are described in [INSTALL.MD](https://github.com/lisper004/ring/blob/main/INSTALL.md)
 
 # Tested on:
 - QEMU (official support)
