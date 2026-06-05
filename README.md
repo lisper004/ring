@@ -1,2 +1,12 @@
-# ring
-RING (Replos Is Not Guix) - Live ISO with REPLOS
+# RING Linux (Replos Is Not Guix)
+I present to you a Linux distribution (based on Archiso) that uses a REPL instead of a regular shell (bash or zsh).
+
+# Install
+Installation instructions are described in [INSTALL.MD]()
+
+# Tested on:
+- QEMU (official support)
+- VirtualBox
+
+# Drawbacks:
+- Incomplete set of commands; you'll have to add them yourself via define. See the [wiki]() for more details.
