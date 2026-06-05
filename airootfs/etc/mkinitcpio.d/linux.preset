@@ -1,0 +1,8 @@
+# mkinitcpio preset file for the 'linux' package on RING
+
+PRESETS=('ring')
+
+ALL_kver='/boot/vmlinuz-linux'
+ring_config='/etc/mkinitcpio.conf.d/ring.conf'
+
+ring_image="/boot/initramfs-linux.img"
