@@ -4,7 +4,7 @@ Welcome to the Lisper004's RING (Replos Is Not Guix) System installation wizard.
 
 First, you have two options:
 1) Build the ISO yourself
-2) Download the latest ISO from [Release](https://github.com/lisper004/ring/releases/tag/0.1)
+2) Download the latest ISO from [Release](https://github.com/lisper004/ring/releases/tag/0.1.1)
 
 If you chose the first option
 ## Step 1) You need to install the ```archiso``` package
