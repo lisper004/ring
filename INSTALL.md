@@ -16,6 +16,14 @@ Or:
 ```bash
 yay -S archiso
 ```
+In replos:
+```scheme
+(pm-install "archiso")
+```
+Or:
+```scheme
+(cmd "yay -S archiso")
+```
 
 No support for other distributions yet (will be available later via sh scripts)
 
