@@ -13,3 +13,4 @@ Installation instructions are described in [INSTALL.MD](https://github.com/lispe
 
 # Screenshots:
 
+![image](https://github.com/lisper004/ring/blob/main/screenshots.png?raw=true)
