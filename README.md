@@ -14,3 +14,8 @@ Installation instructions are described in [INSTALL.MD](https://github.com/lispe
 # Screenshots:
 
 ![image](https://github.com/lisper004/ring/blob/main/screenshots.png?raw=true)
+
+[![GitHub Release](https://img.shields.io/github/v/release/lisper004/ring)](https://github.com/lisper004/ring/releases)
+[![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![GitHub stars](https://img.shields.io/github/stars/lisper004/ring)](https://github.com/lisper004/ring/stargazers)
+[![Arch Linux](https://img.shields.io/badge/Base-Arch%20Linux-1793d1.svg)](https://archlinux.org/)
