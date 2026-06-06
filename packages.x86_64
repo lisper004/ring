@@ -9,7 +9,6 @@ bolt
 brltty
 broadcom-wl
 btrfs-progs
-clonezilla
 cloud-init
 cryptsetup
 darkhttpd
@@ -21,6 +20,7 @@ dmraid
 dnsmasq
 dosfstools
 guile
+git
 e2fsprogs
 edk2-shell
 efibootmgr
@@ -79,7 +79,6 @@ open-vm-tools
 openconnect
 openpgp-card-tools
 openssh
-openvpn
 partclone
 parted
 partimage

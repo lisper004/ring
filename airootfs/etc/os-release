@@ -1,9 +1,9 @@
 NAME="RING"
-VERSION="0.1"
+VERSION="0.1.1"
 ID=ring
 ID_LIKE="replos"
-PRETTY_NAME="RING 0.1 (Replos Is Not Guix)"
-VERSION_ID="0.1"
+PRETTY_NAME="RING 0.1.1 (Replos Is Not Guix)"
+VERSION_ID="0.1.1"
 HOME_URL="https://github.com/lisper004/ring"
 BUG_REPORT_URL="https://github.com/lisper004/ring/issues"
 SUPPORT_URL="https://github.com/lisper004/ring/discussions"
